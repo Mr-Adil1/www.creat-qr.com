@@ -76,6 +76,8 @@ body {
     border-radius: 10px;
     background: #FFF;
     display: flex;
+    gap: 1rem;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     transition: 0.3s;

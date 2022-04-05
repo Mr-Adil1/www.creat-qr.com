@@ -23,7 +23,7 @@ document.getElementById('qrinput').addEventListener('keyup', (event) => {
 })
 var down = document.getElementById('down').onclick = (e) => {
     e.preventDefault();
-    var elem = document.getElementById('qrdiv');
+    var elem = document.getElementById('down');
     domtoimage.toPng(elem).then((dataurl) => {
         var img = new Image();
         img.src = dataurl;
