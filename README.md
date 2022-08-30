@@ -1,1 +1,1 @@
-# link https://mrdeveloperr.github.io/www.creat-qr.com/
+# link https://mr-adil1.github.io/www.creat-qr.com/
